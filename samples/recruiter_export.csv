@@ -1,0 +1,4 @@
+candidate_id,name,email,phone,company,title,linkedin,location,skills
+C001,Rahul Sharma,rahul@gmail.com,9876543210,Google,Software Engineer,linkedin.com/in/rahul,Bangalore India,Python
+C002,Priya Singh,priya@yahoo.com,8765432109,Amazon,Product Manager,linkedin.com/in/priya,Mumbai India,Java
+C003,Amit Patel,amit@outlook.com,7654321098,Microsoft,Data Scientist,linkedin.com/in/amit,Delhi India,ML

@@ -1,0 +1,225 @@
+[
+  {
+    "candidate_id": "C001",
+    "full_name": "Rahul Sharma",
+    "emails": [
+      "rahul@gmail.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": {
+      "city": "Bangalore",
+      "region": null,
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": "linkedin.com/in/rahul",
+      "github": "github.com/rahulsharma",
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Senior Software Engineer at Google",
+    "years_experience": 5,
+    "skills": [
+      {
+        "name": "Python",
+        "confidence": 0.9,
+        "sources": [
+          "csv"
+        ]
+      },
+      {
+        "name": "AWS",
+        "confidence": 0.9,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.9,
+        "sources": [
+          "ats_json"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Software Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "candidate_id",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "normalized"
+      }
+    ],
+    "overall_confidence": 0.95
+  },
+  {
+    "candidate_id": "C002",
+    "full_name": "Priya Singh",
+    "emails": [
+      "priya@yahoo.com"
+    ],
+    "phones": [
+      "+918765432109"
+    ],
+    "location": {
+      "city": "Mumbai",
+      "region": null,
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": "linkedin.com/in/priya",
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Product Manager at Amazon",
+    "years_experience": 4,
+    "skills": [
+      {
+        "name": "Java",
+        "confidence": 0.9,
+        "sources": [
+          "csv"
+        ]
+      },
+      {
+        "name": "Agile",
+        "confidence": 0.9,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "Roadmapping",
+        "confidence": 0.9,
+        "sources": [
+          "ats_json"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Product Manager",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "candidate_id",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "normalized"
+      }
+    ],
+    "overall_confidence": 0.95
+  },
+  {
+    "candidate_id": "C003",
+    "full_name": "Amit Patel",
+    "emails": [
+      "amit@outlook.com"
+    ],
+    "phones": [
+      "+917654321098"
+    ],
+    "location": {
+      "city": "Delhi",
+      "region": null,
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": "linkedin.com/in/amit",
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "Machine Learning",
+        "confidence": 0.9,
+        "sources": [
+          "csv"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Data Scientist",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "candidate_id",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "normalized"
+      }
+    ],
+    "overall_confidence": 1.0
+  }
+]

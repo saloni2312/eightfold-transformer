@@ -1,0 +1,20 @@
+[
+  {
+    "id": "C001",
+    "full_name": "Rahul Sharma",
+    "primary_email": "rahul@gmail.com",
+    "skills": ["Python", "AWS", "Docker"],
+    "location": "Bangalore, India",
+    "years_experience": 5,
+    "headline": "Senior Software Engineer at Google"
+  },
+  {
+    "id": "C002",
+    "full_name": "Priya Singh",
+    "primary_email": "priya@yahoo.com",
+    "skills": ["Java", "Agile", "Roadmapping"],
+    "location": "Mumbai, India",
+    "years_experience": 4,
+    "headline": "Product Manager at Amazon"
+  }
+]
